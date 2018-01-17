@@ -2,10 +2,23 @@
   "scripts": {
     "dev": "next"
   },
+  "engines": {
+    "node": ">=8.9.1"
+  },
   "dependencies": {
     "antd": "^3.1.3",
     "next": "^4.2.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
-  }
+  },
+  "name": "wedding",
+  "version": "1.0.0",
+  "description": "Calvin & Patty's Wedding",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/calvin620707/wedding",
+    "type": "git"
+  },
+  "author": "Calvin Wu <calvin620707@msn.com>",
+  "license": "MIT"
 }
