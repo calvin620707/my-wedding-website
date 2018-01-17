@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "next"
+  },
   "dependencies": {
     "next": "^4.2.3",
     "react": "^16.2.0",
